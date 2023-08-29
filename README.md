@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Samiha Fansur</h1>
 <h3 align="center">An enthusiastic full-stack developer with strong management skills</h3>
 
-- 🔭 I’m currently **on my placement year at SYMCA**
+- 🎯 In my final year at The University of Sheffield
 
-- 🌱 I’m currently learning **Koitlin**
+- 📚 Doing my dissertation on Gamifying Online Teamwork
+
+- 🔭 Completed **my placement year at SYMCA**
+
+- 🌱 I’m currently learning **Koitlin** 
 
 - 📫 Reach me on **samiha.fansur.2002@gmail.com**
 
