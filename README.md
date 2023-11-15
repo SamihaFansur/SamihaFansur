@@ -3,7 +3,7 @@
 
 - 🎯 In my final year at The University of Sheffield
 
-- 📚 Doing my dissertation on Gamifying Online Teamwork
+- 📚 Doing my dissertation on Gamifying Online Teamwork for Software Engineering Projects
 
 - 🔭 Completed **my placement year at SYMCA**
 
